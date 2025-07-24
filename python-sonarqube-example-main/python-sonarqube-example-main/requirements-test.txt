@@ -1,5 +1,0 @@
-pytest
-pylint
-bandit
-coverage
-pytest-cov
